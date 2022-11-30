@@ -1,9 +1,8 @@
 # core-code-start-from-scratch
 Testing enviroment
 
-Hello World, I am testing on how to work with core code
 
-
+**Wednesday Exercises**
 
 ====================================================================
 
@@ -42,7 +41,7 @@ Calculate the volume of a piramid
 5. Print the variable result.
 
 
-==================================================================================
+============================================================================
 
 
 Calculate the volume of a cube - Algorithm
@@ -51,7 +50,7 @@ Calculate the volume of a cube - Algorithm
 2. Power the variable S by 3 and assign its value to the variable result.
 3. Print the Variable Result
 
-====================================================================================
+=============================================================================
 
 Calculate the volume of a Sphere - Algorithm
 
@@ -60,3 +59,24 @@ Calculate the volume of a Sphere - Algorithm
 3. Multiply the result with the constant S1 which is equal to 4/3
 4. Assign the value to the variable result.
 5. Print the variable Result
+
+
+************************************************************************
+
+**Thursday Exercises**
+
+
+Make a flowchart to define if a number is even or odd. Attached in the repository documents.
+
+
+========================================================================
+
+Create a pseudocode for an algorithm that calculates the age of a person base of the date of birth
+
+1. Request date of birth;
+2. Request current date;
+3. Compare dates between each other;
+4. Count days from DOB to current date;
+5. Divide the quantity of days by 360;
+6. Print the result;
+7. 
