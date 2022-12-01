@@ -1,4 +1,4 @@
-#Exercise 1
+#Exercise 1 - Wednesday, Nov. 23th 
 
 **Create Algorithms for the following cases:**
 
