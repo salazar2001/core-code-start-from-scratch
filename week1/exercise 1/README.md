@@ -3,6 +3,7 @@
 **Create Algorithms for the following cases:**
 
 ============================================================
+
 How to make a Pizza - Algorithm
 
 1. Buy ingredients
