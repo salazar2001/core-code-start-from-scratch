@@ -1,0 +1,5 @@
+Calculate the volume of a cube - Algorithm
+
+1. Request the value of any edge and assign it to the variable S
+2. Power the variable S by 3 and assign its value to the variable result.
+3. Print the Variable Result
