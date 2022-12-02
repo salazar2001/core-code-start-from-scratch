@@ -1,0 +1,7 @@
+Calculate the volume of a Sphere - Algorithm
+
+1. Request the radius and assign to the vairalble R
+2. Multiply the variable with the constant pi which is equal to 3.1416
+3. Multiply the result with the constant S1 which is equal to 4/3
+4. Assign the value to the variable result.
+5. Print the variable Result
