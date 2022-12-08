@@ -1,4 +1,5 @@
-Algoritmo modTest
+```
+Algoritmo calculatorEoO
 	Imprimir "Enter a number"
 	Leer X
 	
@@ -8,3 +9,5 @@ Algoritmo modTest
 		Imprimir "The number " X " is odd"
 	FinSi
 FinAlgoritmo
+```
+
